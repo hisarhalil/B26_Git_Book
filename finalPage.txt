@@ -1,0 +1,10 @@
+
+
+so far we learned git flow for
+commit --> pus
+
+
+and 
+
+remote --> local
+pull/update
